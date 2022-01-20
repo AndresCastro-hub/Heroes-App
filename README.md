@@ -8,6 +8,18 @@ Heroes App es una SPA ( Single Page Application ) en la cual se puede ver distin
 - Animate.css
 - npm query string
 
+### Instalacion 
+
+Este proyecto requiere NodeJS para su ejecución.
+
+``` 
+git clone https://github.com/AndresCastro-hub/Heroes-App.git
+
+cd heroes-app
+npm install
+npm start
+```
+
 Demo: https://heroesapp1.netlify.app/
 
 ![Image Text](https://github.com/AndresCastro-hub/Heroes-App/blob/main/assets/heroesapp.PNG)
