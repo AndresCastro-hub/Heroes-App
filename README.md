@@ -6,6 +6,7 @@ Heroes App es una SPA ( Single Page Application ) en la cual se puede ver distin
 
 - React Router Dom
 - Animate.css
+- npm query string
 
 Demo: https://heroesapp1.netlify.app/
 
