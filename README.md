@@ -2,10 +2,10 @@
 
 Heroes App es una SPA ( Single Page Application ) en la cual se puede ver distinta infomacion de heroes y cuenta con un buscado. La App fue creada en el curso de react de Fernando Herrara para practicar React. <br/>
 
-##Librerias Instaladas 
+## Librerias Instaladas 
 
--React Router Dom
--Animate.css
+- React Router Dom
+- Animate.css
 
 Demo: https://heroesapp1.netlify.app/
 
